@@ -1,11 +1,11 @@
 # Site settings
 author: Shamel Lakin
-title: 
+title: CLI Project - Popcorn Gem
 header-img: img/home-bg.png
 email: christlife4u@gmail.com
 copyright_name: Shamel Lakin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Popcorn a tale of the top ten movies
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShamelLakin
