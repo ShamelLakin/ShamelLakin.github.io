@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coding is Togetherness"
-date:       2019-12-03 16:10:27 +0000
+date:       2019-12-03 11:10:28 -0500
 permalink:  coding_is_togetherness
 ---
 
@@ -10,7 +10,7 @@ One of the most amazing things about life is family and friends. The fact that w
 
 Success just seems worth it when we get to share it with the people we care about the most. 
 
-Well learning to code programs is likened to togetherness because it brings individuals of all walks of life together under one umbrella called the Web. Writing programs is my way of giving back to the universe forming bonds with others throw hashes and objects, connecting them togther in a web of information.
+Well learning to code programs is likened to togetherness because it brings individuals of all walks of life together under one umbrella called the Web. Writing programs is my way of giving back to the universe forming bonds with others through hashes, objects, Ruby and Sinatra connecting them togther in a web of information.
 
 To be honest most programmers might just think of coding as a way to provide for thier families (although true) it's much more than that! It's feeding people in countries who are less fortunate than ourselves through organizations who are mostly web based. Coding is to reach out to the world gathering resources to provide food, clothing, and shelter to those in need.
 
