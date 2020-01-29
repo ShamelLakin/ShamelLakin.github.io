@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project"
-date:       2020-01-29 14:38:56 +0000
+date:       2020-01-29 09:38:57 -0500
 permalink:  sinatra_project
 ---
 
@@ -10,11 +10,11 @@ It's project mode once again at Flatiron School and our task is to build a Sinat
 
 One of the many elements of our application is to use MVC which stands for, Models, Views, and Controllers.
 
-The Models is the logic behind a web application. This is where data is manipulated and/or saved. 
+The **Models** are the logic behind a web application. This is where data is manipulated and/or saved. 
 
-The Views is  the 'front-end', user-facing part of a web application - this is the only part of the app that the user interacts with directly. Views generally consist of HTML, CSS, and Javascript. 
+The **Views** are the 'front-end', user-facing part of a web application - this is the only part of the app that the user interacts with directly. Views generally consist of HTML, CSS, and Javascript. 
 
-The Controllers is the go-between for models and views. The controller relays data from the browser to the application, and from the application to the browser.
+The **Controllers** are the go-between for models and views. The controller relays data from the browser to the application, and from the application to the browser.
 
 **User Model**
 
