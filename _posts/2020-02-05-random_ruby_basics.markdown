@@ -126,7 +126,7 @@ If you wanted to redirect to a new url it would look like this:
 
 `redirect "https://passme.com" #haha`
 
-A redirect is different from erb. A redirect makes a new request and an erb is most commonly seen rendering web pages. The difference in arguemnts are as follow, redirect takes us to a new path, and an erb it's arguement is a new page to be rendered. 
+A redirect is different from erb. A` redirect `makes a new request and an` erb `is most commonly seen rendering web pages. The difference in arguemnts are as follows - a redirect takes us to a new path, and an erb's arguement is a new page to be rendered. 
 
 Redirect 
 
