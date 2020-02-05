@@ -5,6 +5,10 @@ date:       2020-02-05 11:35:26 -0500
 permalink:  random_ruby_basics
 ---
 
+> 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ― Martin Fowler
+
 
 **How does an if statement work?** 
 
