@@ -118,7 +118,7 @@ I'm going to wrap this article up by talking about `redirect` a redirect takes i
 
 If you wanted to redirect to a new url it would look like this:
 
-redirect "https://passme.com" #haha
+`redirect "https://passme.com" #haha`
 
 A redirect is different from erb. A redirect makes a new request and an erb is most commonly seen rendering web pages. The difference in arguemnts are as follow, redirect takes us to a new path, and an erb it's arguement is a new page to be rendered. 
 
