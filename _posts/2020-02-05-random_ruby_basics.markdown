@@ -76,7 +76,7 @@ true && true #=> true
 false && true #=> false
 ```
 
-Next on deck is the` || `**double-pipe** which represents "OR". For the double-pipe to evalute to true we only need one value to equate to true, like so:
+Next on deck is the` ||` **double-pipe** which represents "OR". For the double-pipe to evalute to true we only need one value to equate to true, like so:
 
 ```
 true || false #=> true
