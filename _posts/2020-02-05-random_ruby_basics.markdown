@@ -109,9 +109,11 @@ The second of the two is the **Scripting Tags**, The scripting tags open with `<
 
 Scripting tags can have some affect on iterative or conditional expressions even if the expression is untagged text they surround, for example:
 
+```
 <% if @flatironschool == true %>
       flatironschool
     <% end %>
+```
 
 
 **What does redirect do and what does it take as an argument how is it different from erb’s argument?**
