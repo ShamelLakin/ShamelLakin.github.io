@@ -61,11 +61,11 @@ The cool thing about If statements is that we can have nested `If` statements in
 If 5 < 10
   puts "I'm less than you"
   If 5 > 10
-       puts "I'm higher than you
-  Else
-       puts I'm half the size of that other digit"
-  End
-End
+       puts "I'm higher than you"
+  else
+       puts "I'm half the size of that other digit"
+  end
+end
 ```
 
 It will puts out the "I'm less than you" and  "I'm half the size of that other digit" because the first` If` statement 5 < 10 is truthy so it will `puts` "I'm less than you" and still go into the nested` If` statement.
