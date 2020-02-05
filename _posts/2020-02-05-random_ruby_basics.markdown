@@ -12,7 +12,7 @@ permalink:  random_ruby_basics
 
 **How does an if statement work?** 
 
-The first thing we need to talk about before I answer the question of how an` If` statement works is control flow. Control Flow is used to change the flow of control in any given program based on certain conditions and `If` statements do just that. `If` statements evaluated on true or false expressions, if the evalution results to true than the code inside the block will be run until the end.
+The first thing we need to talk about before I answer the question of how an` If` statement works is control flow. Control Flow is used to change the flow of control in any given program based on certain conditions and `If` statements do just that. `If` statements are evaluated on truthy or falsy expressions, if the evalution results to true than the code inside the block will be run until the end.
 
 ```
 my_bank_account = 100
