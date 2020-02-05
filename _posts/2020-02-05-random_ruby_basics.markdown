@@ -44,15 +44,15 @@ You can take this one step further & use an` elsif `statement:
 my_bank_account = 25
 
 if my_bank_account_balance > 50
-   puts "I'm eating steak!"
+  puts "I'm eating steak!"
 elsif my_bank_account == 30
   puts "Olive Garden it is"
 else
-	 puts "I'm eating a slice of pizza"
+  puts "I'm eating a slice of pizza"
 end   
 ```
 
-This is saying "If" my_bank_account is greater than 50 print this message, else if my_bank_account equals 30 print this special message, otherwise if none of these conditions are true then print the "I'm eating pizza" message.”
+This is saying "If" my_bank_account is greater than 50 print this message,` elsif` my_bank_account equals 30 print this special message, otherwise if none of these conditions are true then print the "I'm eating pizza" message.”
 
 
 The cool thing about If statements is that we can have nested `If` statements inside another. Let's take an example:
@@ -61,7 +61,7 @@ The cool thing about If statements is that we can have nested `If` statements in
 If 5 < 10
   puts "I'm less than you"
   If 5 > 10
-       Puts "I'm higher than you
+       puts "I'm higher than you
   Else
        puts I'm half the size of that other digit"
   End
