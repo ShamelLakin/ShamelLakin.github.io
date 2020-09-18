@@ -26,5 +26,5 @@ After the route has been typed in if you are looking at your server it will be c
 
 The other aforementioned class is a `Model` a model is the central component of the app. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application. in my models i had to create my associations between my classes such as `has_many`, `belongs_to` to name a couple. 
 
-I had to go through this process over and over again until each of my classes were properly connected to one another, ultimately giving me a finished product. Rail overall is an excellent framework that I would recommend to anyone, it will take more time to master but in the end I'll prevail.
+I had to go through this process over and over again until each of my classes were properly connected to one another, ultimately giving me a finished product. Ruby on Rails overall is an excellent framework that I would recommend to anyone, it will take more time to master but in the end I'll prevail.
 
