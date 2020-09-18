@@ -5,6 +5,7 @@ date:       2020-09-18 16:06:49 -0400
 permalink:  rails_for_change
 ---
 
+![](hhttps://lh3.googleusercontent.com/tZGf6vLYzjfWSK6Pbd-By8_G-jAH_Nb5xy0Bg2I6AOvWaVmA4d-DZxgiKfKX8JwXkte-yTH28XbklzhLT0bkfmnS9BOmkHr1-fJBIo8Ozh39h_yOXFsBSIAkfWIKbINzH8GfpLtAGFk=w2400ttp://)
 
 This project is all about change for me, changing careers, changing direction, changing the world. Hence the name of this brand new app Change • ish. I've never built anything with rails before so this was quite an adventure for me so let's travel together on a small journey on my rails coaster, shall we? Let's ride.
 
