@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project"
-date:       2020-09-18 20:54:10 +0000
+date:       2020-09-18 16:54:11 -0400
 permalink:  rails_project
 ---
 
@@ -27,4 +27,4 @@ The other aforementioned class is a Model a model is the central component of th
 
 I had to go through this process over and over again until each of my classes were properly connected to one another, ultimately giving me a finished product. Ruby on Rails overall is an excellent framework that I would recommend to anyone, it will take more time to master but in the end I’ll prevail.
 
-The content of your blog post goes here.
+
