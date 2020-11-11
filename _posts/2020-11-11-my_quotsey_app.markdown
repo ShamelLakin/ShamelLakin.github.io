@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Quotsey App"
-date:       2020-11-11 20:04:28 +0000
+date:       2020-11-11 15:04:28 -0500
 permalink:  my_quotsey_app
 ---
 
